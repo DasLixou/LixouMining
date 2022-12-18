@@ -1,0 +1,7 @@
+name: LioxuMining
+version: ${project.version}
+main: de.daslixou.lioxumining.Main
+api-version: 1.16
+authors: [ DasLixou ]
+description: Remaking of the mod "TinkersConstruct" as a plugin.
+website: twitch.tv/daslixou
